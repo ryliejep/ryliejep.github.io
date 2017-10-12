@@ -1,0 +1,55 @@
+
+             h1{
+                 color:violet;
+                 font-size:40;
+             }
+             h2{
+                 color:#81d4fa;
+                 font-size:20;
+             }
+             h3{
+                 color:#81d4fa;
+                 font-size:20;
+             }
+             .listitem{
+                 color:violet;
+                 ;
+                 font-size:20px;
+             }
+             form{
+                 color:violet;
+                 font-size:20;
+             }
+        
+             #image {
+                 width:15%;
+                 height:35%;
+             }
+             .wrap-trivia{
+                 height:200px;
+                 width:350px;
+                 border:10px dotted #000066;
+             }
+             .navitem {
+                 list-style-type:none;
+                 display:inline;
+                 padding-left:1.5em;
+                 font-size:25px;
+                 color:violet;
+             }  
+             #navmenu {
+                 width:600px;
+                 height:15px;
+                 margin:auto;
+                 color:violet;
+                
+             }       
+             a:hover{ 
+                 color:violet;
+             } 
+
+             .div{
+                 float:right; 
+                 width:20px;
+
+             }
